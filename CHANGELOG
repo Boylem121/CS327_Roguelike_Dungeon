@@ -1,0 +1,41 @@
+1-25: Started Project
+1-25: Generated one room
+1-26: Generated all 6 rooms
+1-27: Generated paths and stairs
+2-4: Started 1.02
+2-4: Read --save and --load flags from comand line
+2-5: Wrote and read file marker, version and file size
+2-6: Implemented read and write for the rest of the values
+2-7: Started working on reading both tags at once and fixing bugs
+2-8: Finished a rough working 1.02
+2-9: Rewrite code into more readible format
+2-10: Contine to rewrite code
+2-11: Start 1.03
+2-12: Complete pathing for non-tunnling monsters
+2-13: Fix segmentation fault
+2-14: Complete pathing for tunnling monsters and complete 1.03
+2-18: Started 1.04 got monsters gennerated
+2-19: Started working on monster turn min heap
+2-21: Fixed problems with previous code
+2-25: Added random movements to monsters
+2-26: Moved monsters based on traits
+2-28: Started 1.05
+3-1: Implemented ncurses into project
+3-2: Made PC movements
+3-11: Made list of monsters
+3-13: Started 1.06
+3-14: Converted to c++
+3-15: Added fog of war and toggle to view all
+3-25: Added telport 
+3-26: Fixed seg fault 
+3-27: More bug fixes 
+3-31: Started 1.07
+4-1: Implemented scanning of monster file
+4-8: Started 1.08
+4-9: added objcts to render and fixed parsing
+4-10: added items to be rendered
+4-15: Started 1.09
+4-16: Implemented the diffrent screens for items
+4-17: added combat and fixed many bugs
+4-22: Started 1.10
+4-22: Added various lighting effects and Inspect for items on the ground.
